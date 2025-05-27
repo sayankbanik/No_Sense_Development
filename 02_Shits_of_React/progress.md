@@ -13,5 +13,5 @@ async def fetch_data():
             return await response.json()
 ```
 
-![Alt Text](images\image_01_demo.jpg)
+![Alt Text](.\images\image_01_demo.jpg)
 ![OpenAI Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg)
