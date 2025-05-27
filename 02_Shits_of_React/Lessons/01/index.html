@@ -3,7 +3,32 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+    <title>Lesson 1 React</title>
   </head>
-  <body></body>
+  <body>
+    <div id="root"></div>
+    <div id="root-js"></div>
+    <!-- Hello World using HTML -->
+    <h1>Hello World using HTML</h1>
+    <!-- Hello World using JavaScript  -->
+    <script>
+      const rootElement = document.getElementById("root-js");
+      const head = document.createElement("h1");
+      head.textContent = "Hello World from JavaScript";
+      rootElement.appendChild(head);
+    </script>
+
+    <!-- Hello World using React -->
+    <!-- adding react via CDN -->
+    <script
+      crossorigin
+      src="https://unpkg.com/react@18/umd/react.development.js"
+    ></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
+    ></script>
+    <script src="./App.js"></script>
+  </body>
 </html>

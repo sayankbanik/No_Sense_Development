@@ -1,10 +1,10 @@
 ## 📅 May 27, 2025
 
-- ✅ Finished setting up the development environment
-- 📝 Read about asynchronous programming in Python
-- 🔧 Fixed a bug related to user login session
+- ✅ Finished first lecture of Namaste React
+- 📝 added react to my js file, manipulate DOM
+- 🔧 for first lecture readme is created
 
-**Code Example:**
+<!-- **Code Example:**
 
 ```python
 async def fetch_data():
@@ -14,4 +14,4 @@ async def fetch_data():
 ```
 
 ![Alt Text](.\images\image_01_demo.jpg)
-![OpenAI Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg)
+![OpenAI Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg) -->
