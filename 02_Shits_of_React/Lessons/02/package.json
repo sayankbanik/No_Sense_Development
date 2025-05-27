@@ -1,0 +1,28 @@
+{
+  "name": "02",
+  "version": "1.0.0",
+  "description": "this is a package installing demo",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayankbanik/No_Sense_Development.git"
+  },
+  "author": "Sayan Kansabanik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayankbanik/No_Sense_Development/issues"
+  },
+  "homepage": "https://github.com/sayankbanik/No_Sense_Development#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslists":[
+    "last 2 versions"
+]
+}
